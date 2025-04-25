@@ -1,11 +1,9 @@
 <h1 align="center">👋 ¡Hola! Soy Efraín Cruz Lobato</h1>
 <h3 align="center">🧠 Ingeniero en Desarrollo y Gestión de Software </h3>
 
----
+###
 
-### 💻 Sobre mí
-
-Con experiencia en la creación de soluciones **eficientes, seguras y escalables**, me dedico a desarrollar aplicaciones modernas tanto para web como para móviles.
+💻 Con experiencia en la creación de soluciones **eficientes, seguras y escalables**, me dedico a desarrollar aplicaciones modernas tanto para web como para móviles.
 
 👨‍💻 Trabajo con lenguajes como **Java** y **Dart**, y utilizo frameworks como **Spring Boot**, **Hibernate** y **Flutter** para construir desde API REST robustas hasta aplicaciones móviles fluidas y dinámicas.
 
@@ -54,6 +52,7 @@ Con experiencia en la creación de soluciones **eficientes, seguras y escalables
 - 💼 **LinkedIn:** [linkedin.com/in/efrain-cruz-lobato-908a5b2a8](https://www.linkedin.com/in/efrain-cruz-lobato-908a5b2a8/)
 
 ---
+
 
 ### ⭐ ¡Gracias por visitar mi perfil!
 
